@@ -4,4 +4,4 @@ FROM mongo:latest
 # Define working directory.
 WORKDIR /data
 
-#EXPOSE 27017
+EXPOSE 27017
